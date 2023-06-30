@@ -1,0 +1,73 @@
+h1{
+    color: white;
+ border-top: dashed;
+ border-bottom: dashed;
+ font-family: cursive;
+
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+}
+
+div{
+
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    color: white;
+    border-top: dashed;
+    border-bottom: dashed;
+
+}
+
+ul{
+    color: white;
+
+
+}
+img{
+    width: 400px;
+    height: 250px;
+}
+
+#a{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+
+    
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.images img{
+    height: 400px;
+}
+.ranked{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+#websites{
+    color: white;
+}
+
+a{
+    color: white;
+}
+a:hover{
+    color: aqua;
+}
+
